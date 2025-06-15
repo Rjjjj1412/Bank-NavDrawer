@@ -1,16 +1,14 @@
-# bank_app_navdrawer
+# Welcome to my Bank Application with UI and Navigation Drawer.
 
-A new Flutter project.
+This is a submodule git.
 
-## Getting Started
+Related to (MAIN REPO): https://github.com/Michael679089/CS319_Flutter-Application-Development
 
-This project is a starting point for a Flutter application.
+## Updates
+* Added HomePage inside pages folder
+* Added Navigation Drawer
 
-A few resources to get you started if this is your first Flutter project:
+### Video Demo of the Project
+* Video Demo link: https://drive.google.com/file/d/1oZAch3UCtUjDbzlEL2IphynMd6gVf5kQ/view?usp=drive_link
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
